@@ -56,7 +56,7 @@
       "id": 10,
       "viaje": false,
       "fechaViaje": null,
-      "destinoViaje": ,
+      "destinoViaje": null,
       "embarazo": false,
       "semanasGestacion": 0,
       "embarazosPrevios": 0,
