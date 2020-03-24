@@ -1,57 +1,93 @@
 [
   {
-    "id": 1,
-    "name": "Leanne Graham",
-    "email": "Sincere@april.biz",
-    "dni": "21.352.366",
-    "contact": {
-      "mom": "1125425368",
-      "dad": "1125425368",
-      "brother": "1125425368"
-    }
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "email": "Shanna@melissa.tv",
-    "dni": "21.352.366",
-    "contact": {
-      "mom": "1125425368",
-      "dad": "1125425368",
-      "brother": "1125425368"
-    }
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "email": "Nathan@yesenia.net",
-    "dni": "21.352.366",
-    "contact": {
-      "mom": "1125425368",
-      "dad": "1125425368",
-      "brother": "1125425368"
-    }
-  },
-  {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "email": "Julianne.OConner@kory.org",
-    "dni": "21.352.366",
-    "contact": {
-      "mom": "1125425368",
-      "dad": "1125425368",
-      "brother": "1125425368"
-    }
-  },
-  {
-    "id": 5,
-    "name": "Chelsey Dietrich",
-    "email": "Lucio_Hettinger@annie.ca",
-    "dni": "21.352.366",
-    "contact": {
-      "mom": "1125425368",
-      "dad": "1125425368",
-      "brother": "1125425368"
-    }
+    "id": 14,
+    "nombre": "Nadia",
+    "apellido": "González",
+    "documento": "12345678",
+    "email": "nadia@gonzalez.asd",
+    "sexo": "Femenino",
+    "direccion": "Av. Noexiste 123 4°c",
+    "telefono": "01144445555",
+    "anamnesis": {
+      "id": 14,
+      "viaje": true,
+      "fechaViaje": "2020-02-14",
+      "destinoViaje": "Brasil",
+      "embarazo": true,
+      "semanasGestacion": 11,
+      "embarazosPrevios": 0,
+      "antecedentesPersonales": "Hipertiroidismo",
+      "antecedentesFamiliares": "Asma, Diabetes",
+      "medicacionRegular": "Ninguna",
+      "convivientes": "1",
+      "observaciones": "La paciente informa que fuma ocasionalmente."
+    },
+    "contactosEmergencia": [{
+      "id": 35,
+      "nombre": "Hernán",
+      "apellido": "Pérez",
+      "email": "hernan@perez.asd",
+      "telefono": "01149998888",
+      "telefono2": "01143336666",
+      "relacion": "Marido",
+      "direccion": "Av. Noexiste 123 4°c",
+    }, {
+      "id": 36,
+      "nombre": "Romina",
+      "apellido": "González",
+      "email": "romina@gonzalez.asd",
+      "telefono": "01149123188",
+      "telefono2": "01143774466",
+      "relacion": "Madre",
+      "direccion": "Inventada 2543 14° "
+    }],
+    "estado":"COVID-19 confirmado"
   }
+},
+{
+    "id": 10,
+    "nombre": "Carlos",
+    "apellido": "González",
+    "documento": "31345678",
+    "email": "carlos@gonzalez.asd",
+    "sexo": "Masculino",
+    "direccion": "Av. Noexiste 123 4°c",
+    "telefono": "01144445555",
+    "anamnesis": {
+      "id": 10,
+      "viaje": false,
+      "fechaViaje": null,
+      "destinoViaje": ,
+      "embarazo": false,
+      "semanasGestacion": 0,
+      "embarazosPrevios": 0,
+      "antecedentesPersonales": "Diabetes",
+      "antecedentesFamiliares": "Asma, Diabetes",
+      "medicacionRegular": "Ninguna",
+      "convivientes": "2",
+      "observaciones": "El paciente informa que fuma ocasionalmente."
+    },
+    "contactosEmergencia": [{
+      "id": 35,
+      "nombre": "Hernán",
+      "apellido": "Pérez",
+      "email": "hernan@perez.asd",
+      "telefono": "01149998888",
+      "telefono2": "01143336666",
+      "relacion": "Marido",
+      "direccion": "Av. Noexiste 123 4°c",
+    }, {
+      "id": 36,
+      "nombre": "Romina",
+      "apellido": "González",
+      "email": "romina@gonzalez.asd",
+      "telefono": "01149123188",
+      "telefono2": "01143774466",
+      "relacion": "Madre",
+      "direccion": "Inventada 2543 14° "
+    }],
+    "estado":"Alta"
+  }
+}
 ]
+
