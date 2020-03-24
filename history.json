@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "estado": "confirmado",
+    "clinico":{
+      "anamnesis":"viaje, embarazo, antecedentes,medicacion,trabajo,grupo,observaciones"
+    },
+    "registro": {
+      "ingreso": "01-12-2020",
+      "f_respiratoria": "Apt. 556",
+      "f_cardiaca": "Gwenborough",
+      "t_arterial": "78 mm/hg",
+      "temperatura": "37.5"
+    }
+  },
+  {
+    "id": 2,
+    "estado": "baja",
+    "clinico":{
+      "anamnesis":"viaje, embarazo, antecedentes,medicacion,trabajo,grupo,observaciones"
+    },
+    "registro": {
+      "ingreso": "01-12-2020",
+      "f_respiratoria": "Apt. 556",
+      "f_cardiaca": "Gwenborough",
+      "t_arterial": "78 mm/hg",
+      "temperatura": "37.5"
+    }
+  },
+  {
+    "id": 3,
+    "estado": "alta",
+    "clinico":{
+      "anamnesis":"viaje, embarazo, antecedentes,medicacion,trabajo,grupo,observaciones"
+    },
+    "registro": {
+      "ingreso": "01-12-2020",
+      "f_respiratoria": "Apt. 556",
+      "f_cardiaca": "Gwenborough",
+      "t_arterial": "78 mm/hg",
+      "temperatura": "37.5"
+    }
+  },
+  {
+    "id": 4,
+    "estado": "confirmado",
+    "clinico":{
+      "anamnesis":"viaje, embarazo, antecedentes,medicacion,trabajo,grupo,observaciones"
+    },
+    "registro": {
+      "ingreso": "01-12-2020",
+      "f_respiratoria": "Apt. 556",
+      "f_cardiaca": "Gwenborough",
+      "t_arterial": "78 mm/hg",
+      "temperatura": "37.5"
+    }
+  },
+  {
+    "id": 5,
+    "estado": "baja",
+    "clinico":{
+      "anamnesis":"viaje, embarazo, antecedentes,medicacion,trabajo,grupo,observaciones"
+    },
+    "registro": {
+      "ingreso": "01-12-2020",
+      "f_respiratoria": "Apt. 556",
+      "f_cardiaca": "Gwenborough",
+      "t_arterial": "78 mm/hg",
+      "temperatura": "37.5"
+    }
+  }
+
+]
