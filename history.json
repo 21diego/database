@@ -10,7 +10,8 @@
       "f_respiratoria": "40-70",
       "f_cardiaca": "40-70",
       "t_arterial": "78 mm/hg",
-      "temperatura": "37.5"
+      "temperatura": "37.5",
+      "observaciones": "tiene coronavirus"
     }
   },
   {
@@ -24,7 +25,8 @@
       "f_respiratoria": "40-70",
       "f_cardiaca": "40-70",
       "t_arterial": "78 mm/hg",
-      "temperatura": "37.5"
+      "temperatura": "37.5",
+      "observaciones": "se encuentra bien"
     }
   },
   {
@@ -38,7 +40,8 @@
       "f_respiratoria": "40-70",
       "f_cardiaca": "40-70",
       "t_arterial": "78 mm/hg",
-      "temperatura": "37.5"
+      "temperatura": "37.5",
+      "observaciones": "padece sintomas"
     }
   },
   {
@@ -52,7 +55,8 @@
       "f_respiratoria": "40-70",
       "f_cardiaca": "40-70",
       "t_arterial": "78 mm/hg",
-      "temperatura": "37.5"
+      "temperatura": "37.5",
+      "observaciones": "tiene coronavirus"
     }
   },
   {
@@ -66,7 +70,8 @@
       "f_respiratoria": "40-70",
       "f_cardiaca": "40-70",
       "t_arterial": "78 mm/hg",
-      "temperatura": "37.5"
+      "temperatura": "37.5",
+      "observaciones": "no tiene nada"
     }
   }
 
