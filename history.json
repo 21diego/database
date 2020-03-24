@@ -1,10 +1,6 @@
 [
   {
-    "id": 1,
-    "estado": "confirmado",
-    "clinico":{
-      "anamnesis":"viaje, embarazo, antecedentes,medicacion,trabajo,grupo,observaciones"
-    },
+    "id": 10,
     "registro": {
       "ingreso": "01-12-2020",
       "f_respiratoria": "40-70",
@@ -15,11 +11,7 @@
     }
   },
   {
-    "id": 2,
-    "estado": "baja",
-    "clinico":{
-      "anamnesis":"viaje, embarazo, antecedentes,medicacion,trabajo,grupo,observaciones"
-    },
+    "id": 14,
     "registro": {
       "ingreso": "01-12-2020",
       "f_respiratoria": "40-70",
@@ -28,51 +20,5 @@
       "temperatura": "37.5",
       "observaciones": "se encuentra bien"
     }
-  },
-  {
-    "id": 3,
-    "estado": "alta",
-    "clinico":{
-      "anamnesis":"viaje, embarazo, antecedentes,medicacion,trabajo,grupo,observaciones"
-    },
-    "registro": {
-      "ingreso": "01-12-2020",
-      "f_respiratoria": "40-70",
-      "f_cardiaca": "40-70",
-      "t_arterial": "78 mm/hg",
-      "temperatura": "37.5",
-      "observaciones": "padece sintomas"
-    }
-  },
-  {
-    "id": 4,
-    "estado": "confirmado",
-    "clinico":{
-      "anamnesis":"viaje, embarazo, antecedentes,medicacion,trabajo,grupo,observaciones"
-    },
-    "registro": {
-      "ingreso": "01-12-2020",
-      "f_respiratoria": "40-70",
-      "f_cardiaca": "40-70",
-      "t_arterial": "78 mm/hg",
-      "temperatura": "37.5",
-      "observaciones": "tiene coronavirus"
-    }
-  },
-  {
-    "id": 5,
-    "estado": "baja",
-    "clinico":{
-      "anamnesis":"viaje, embarazo, antecedentes,medicacion,trabajo,grupo,observaciones"
-    },
-    "registro": {
-      "ingreso": "01-12-2020",
-      "f_respiratoria": "40-70",
-      "f_cardiaca": "40-70",
-      "t_arterial": "78 mm/hg",
-      "temperatura": "37.5",
-      "observaciones": "no tiene nada"
-    }
   }
-
 ]
