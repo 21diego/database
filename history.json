@@ -2,7 +2,7 @@
   {
     "id": 10,
     "registro": {
-      "ingreso": "01-12-2020",
+      "ingreso": "20-03-2020",
       "f_respiratoria": "40-70",
       "f_cardiaca": "40-70",
       "t_arterial": "78 mm/hg",
@@ -13,7 +13,18 @@
   {
     "id": 14,
     "registro": {
-      "ingreso": "01-12-2020",
+      "ingreso": "30-03-2020",
+      "f_respiratoria": "40-70",
+      "f_cardiaca": "40-70",
+      "t_arterial": "78 mm/hg",
+      "temperatura": "37.5",
+      "observaciones": "se encuentra bien"
+    }
+  },
+  {
+    "id": 9,
+    "registro": {
+      "ingreso": "27-03-2020",
       "f_respiratoria": "40-70",
       "f_cardiaca": "40-70",
       "t_arterial": "78 mm/hg",
