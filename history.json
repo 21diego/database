@@ -2,7 +2,7 @@
   {
     "id": 10,
     "registro": {
-      "ingreso": "20-03-2020",
+      "ingreso": "2020-03-20",
       "f_respiratoria": "40-70",
       "f_cardiaca": "40-70",
       "t_arterial": "78 mm/hg",
@@ -13,7 +13,7 @@
   {
     "id": 14,
     "registro": {
-      "ingreso": "30-03-2020",
+      "ingreso": "2020-03-30",
       "f_respiratoria": "40-70",
       "f_cardiaca": "40-70",
       "t_arterial": "78 mm/hg",
@@ -24,7 +24,7 @@
   {
     "id": 9,
     "registro": {
-      "ingreso": "27-03-2020",
+      "ingreso": "2020-04-02",
       "f_respiratoria": "40-70",
       "f_cardiaca": "40-70",
       "t_arterial": "78 mm/hg",
