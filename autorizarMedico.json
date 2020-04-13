@@ -1,0 +1,38 @@
+{
+  "status": "authorized",
+  "authorities": "ADMIN",
+  "user": "admin@lhethistoriasclinicas.com",
+  "medicos": [{
+      "id": "asdf",
+      "nombre": "asdf",
+      "apellido": "asdf",
+      "email": "asdf",
+      "telefono": "asdf",
+      "matricula": "asdf"
+    },
+    {
+      "id": "asdf",
+      "nombre": "asdf",
+      "apellido": "asdf",
+      "email": "asdf",
+      "telefono": "asdf",
+      "matricula": "asdf"
+    },
+    {
+      "id": "asdf",
+      "nombre": "asdf",
+      "apellido": "asdf",
+      "email": "asdf",
+      "telefono": "asdf",
+      "matricula": "asdf"
+    },
+    {
+      "id": "asdf",
+      "nombre": "asdf",
+      "apellido": "asdf",
+      "email": "asdf",
+      "telefono": "asdf",
+      "matricula": "asdf"
+    }
+  ]
+}
