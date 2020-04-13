@@ -3,28 +3,28 @@
   "authorities": "ADMIN",
   "user": "admin@lhethistoriasclinicas.com",
   "medicos": [{
-      "id": "asdf",
-      "nombre": "asdf",
+      "id": "123",
+      "nombre": "robertito",
       "apellido": "asdf",
       "email": "asdf",
       "telefono": "asdf",
-      "matricula": "asdf"
+      "matricula": "14785"
     },
     {
-      "id": "asdf",
-      "nombre": "asdf",
+      "id": "124",
+      "nombre": "coscu",
       "apellido": "asdf",
       "email": "asdf",
       "telefono": "asdf",
-      "matricula": "asdf"
+      "matricula": "21458"
     },
     {
-      "id": "asdf",
-      "nombre": "asdf",
+      "id": "125",
+      "nombre": "ranciovich",
       "apellido": "asdf",
       "email": "asdf",
       "telefono": "asdf",
-      "matricula": "asdf"
+      "matricula": "65478"
     },
     {
       "id": "asdf",
