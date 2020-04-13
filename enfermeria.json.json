@@ -1,0 +1,35 @@
+[
+  {
+    "id": 10,
+    "registro": {
+      "ingreso": "2020-06-25",
+      "f_respiratoria": "40-70",
+      "f_cardiaca": "40-70",
+      "t_arterial": "78 mm/hg",
+      "temperatura": "37.5",
+      "observaciones": "complicadx"
+    }
+  },
+  {
+    "id": 14,
+    "registro": {
+      "ingreso": "2020-08-03",
+      "f_respiratoria": "40-70",
+      "f_cardiaca": "40-70",
+      "t_arterial": "78 mm/hg",
+      "temperatura": "37.5",
+      "observaciones": "mejorando"
+    }
+  },
+  {
+    "id": 9,
+    "registro": {
+      "ingreso": "2020-12-17",
+      "f_respiratoria": "40-70",
+      "f_cardiaca": "40-70",
+      "t_arterial": "78 mm/hg",
+      "temperatura": "37.5",
+      "observaciones": "curadx"
+    }
+  }
+]
