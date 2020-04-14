@@ -4,6 +4,7 @@
   "user": "admin@lhethistoriasclinicas.com",
   "medicos": [{
       "id": "23",
+      "dni": "20111222",
       "nombre": "corki",
       "apellido": "asdf",
       "email": "asdf",
@@ -12,6 +13,7 @@
     },
     {
       "id": "25",
+      "dni": "20333444",
       "nombre": "ta",
       "apellido": "asdf",
       "email": "asdf",
@@ -20,6 +22,7 @@
     },
     {
       "id": "29",
+      "dni": "20555666",
       "nombre": "op",
       "apellido": "asdf",
       "email": "asdf",
@@ -28,6 +31,7 @@
     },
     {
       "id": "31",
+      "dni": "20777888",
       "nombre": "lucas malardo",
       "apellido": "asdf",
       "email": "asdf",
