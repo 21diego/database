@@ -77,5 +77,49 @@
       "direccion": "Av. paraiso 666 4 nube"
     }],
     "estado":"COVID-19 confirmado"
+  },
+  {
+    "id": 10,
+    "nombre": "Susana",
+    "apellido": "Gimenez",
+    "documento": "20252625",
+    "email": "su@g.asd",
+    "sexo": "Femenino",
+    "direccion": "Av. Noexiste 123 4°c",
+    "telefono": "01144445555",
+    "anamnesis": {
+      "id": 10,
+      "viaje": false,
+      "fechaViaje": null,
+      "destinoViaje": null,
+      "embarazo": false,
+      "semanasGestacion": 0,
+      "embarazosPrevios": 0,
+      "antecedentesPersonales": "Diabetes",
+      "antecedentesFamiliares": "Asma, Diabetes",
+      "medicacionRegular": "Ninguna",
+      "convivientes": "2",
+      "observaciones": "El paciente informa que fuma ocasionalmente."
+    },
+    "contactosEmergencia": [{
+      "id": 35,
+      "nombre": "Hernán",
+      "apellido": "Pérez",
+      "email": "hernan@perez.asd",
+      "telefono": "01149998888",
+      "telefono2": "01143336666",
+      "relacion": "Marido",
+      "direccion": "Av. Noexiste 123 4°c"
+    }, {
+      "id": 36,
+      "nombre": "Romina",
+      "apellido": "González",
+      "email": "romina@gonzalez.asd",
+      "telefono": "01149123188",
+      "telefono2": "01143774466",
+      "relacion": "Madre",
+      "direccion": "Inventada 2543 14° "
+    }],
+    "estado":"Alta"
   }
 ]
